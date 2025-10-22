@@ -56,3 +56,12 @@ renv/library/
 renv/staging/
 .DS_Store
 Thumbs.db
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rapp.history
+renv/library/
+renv/staging/
+.DS_Store
+Thumbs.db
