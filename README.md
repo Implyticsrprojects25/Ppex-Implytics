@@ -1,6 +1,13 @@
 # Ppex-Implytics
 "People, Performance, Experience Impact improvement through Analytics and Predictive Modelling".
 
+### HR Attrition & Diversity Funnel  
+**Repo:** [Ppex-Implytics](https://github.com/ImplyticsrProjects25/Ppex-Implytics)  
+**Focus:** People Experience analytics — monitoring onboarding, attrition, and DEI metrics.  
+**Highlights:**  
+- HR dashboard (Power BI) with funnel & trend analysis  
+- Predictive attrition modelling (R / DAX)  
+- Interactive data storytelling report 
 ...
 
 Last update
